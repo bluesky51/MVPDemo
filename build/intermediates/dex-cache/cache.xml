@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_846874aec930d61f7401ba567e151a2bfe387317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_e7ed326c3d0d55a4bbb1df2861cb6914243a04f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_ad29db942a13dc60f5c46e02f55577a1223b91ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Documents/macAndroiddeveloperTools/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_08b57efbec32f1d15c0535731bd2e5accbbdf29d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_cce50382bd17a43c1ce37f63a9f0291edf9e77e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/gson-2.7_6f28f023fc81f0af7453ef69f73188aa5b71d5e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_e7fccbbc00d205538244a7fac1c4748c590f4c11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_7f79af88472a6da27097717c700a58de31087205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/okio-1.8.0_ccb2ca8b6a9ad0c02ac7d2c6d1cd090def268929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/glide-3.7.0_41685f7bfb3ea6630ad621ba4183335e67779d8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbaffbfc2a42fce3718dc9f52182810ad332b0ec">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/com.makeramen-roundedimageview-2.3.0_cf34d1bd704b55bf2ae7b5052c730910e95e1ec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_b393c9dfdac4aea0c408be1e52c5a6dbb66d1963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/bluesky/Downloads/MVPDemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_05f2c28f7cf15fc3087cbcb33fafdc095992ed28.jar" />
+    </item>
+
+</items>
